@@ -238,11 +238,11 @@ def main():
                 break
 
             elif user_choice == '8':
-                 webbrowser.open("https://instagram.com/Ethicalfaizan")
+                 webbrowser.open("https://instagram.com/_.dri.zzle._")
                  break
                  
             elif user_choice == '9':
-                 webbrowser.open("https://github.com/faizan-khanx")
+                 webbrowser.open("https://github.com/codes-by-utkarsh")
                  break
 
                 
