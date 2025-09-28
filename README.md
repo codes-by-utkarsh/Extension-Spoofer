@@ -2,6 +2,8 @@
 
  **A Simple Extension Spoofer Script Which Can Spoof Your File Extension**
 
+ <img width="693" height="465" alt="Screenshot 2025-09-28 151800" src="https://github.com/user-attachments/assets/96fc9099-7d02-4871-9ad6-57cc24e196dd" />
+
 -  apk to jpg , txt , docx , mp4 , mp3 , pdf , gif
 -  jpg to apk , txt , docx , mp4 , mp3 , pdf , gif
 -  txt to jpg , apk , docx , mp4 , mp3 , pdf , gif
@@ -43,9 +45,6 @@ cd Extension-Spoofer
 pip install -r requirements.txt
 python3 spoof.py
 ```
-
-# Screenshot
-![ext]<img width="693" height="465" alt="Screenshot 2025-09-28 151800" src="https://github.com/user-attachments/assets/96fc9099-7d02-4871-9ad6-57cc24e196dd" />
 
 # Feedback
 
