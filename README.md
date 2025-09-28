@@ -29,7 +29,7 @@ git clone https://github.com/codes-by-utkarsh/Extension-Spoofer.git
 cd Extension-Spoofer
 ```
 ```
-pip install -r requirements.txt
+sudo apt install libreadline-dev 
 ```
 ```
 python3 spoof.py
@@ -42,7 +42,7 @@ apt update
 apt install git
 git clone https://github.com/codes-by-utkarsh/Extension-Spoofer.git
 cd Extension-Spoofer
-pip install -r requirements.txt
+sudo apt install libreadline-dev 
 python3 spoof.py
 ```
 
