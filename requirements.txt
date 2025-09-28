@@ -1,1 +1,1 @@
-readline
+sudo apt install libreadline-dev 
