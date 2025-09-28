@@ -45,7 +45,7 @@ python3 spoof.py
 ```
 
 # Screenshot
-![ext](https://github.com/user-attachments/assets/d95225a1-dd58-4024-8646-12b4c8f1f113)
+![ext](<img width="693" height="465" alt="Screenshot 2025-09-28 151800" src="https://github.com/user-attachments/assets/96fc9099-7d02-4871-9ad6-57cc24e196dd" />)
 
 # Feedback
 
